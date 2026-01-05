@@ -1,0 +1,80 @@
+You are a senior full-stack web developer and UI/UX designer.
+
+TASK:
+Create a COMPLETE, SINGLE-FILE web application using ONLY:
+- HTML
+- CSS
+- JavaScript
+
+❗ IMPORTANT RULES:
+1. Output ONLY ONE HTML file (index.html)
+2. Do NOT split code into multiple files
+3. Do NOT explain anything – only provide the final working code
+4. The app MUST be 100% mobile-first and fully responsive
+5. Use clean, modern UI with smooth spacing, rounded cards, icons, and good typography
+6. The layout and navigation must be designed EXACTLY based on the reference image I have provided earlier (card-based, app-style layout)
+
+-----------------------------------
+APP TYPE:
+All-in-One Multi-Tool Web App (Mobile Friendly)
+
+-----------------------------------
+UI / UX REQUIREMENTS:
+- App-like layout (not website-like)
+- Top header with app name
+- Bottom navigation bar (Home / Tools / Favorites / Settings)
+- Card-based tool layout
+- Each tool opens inside the app (no page reload)
+- Touch-friendly buttons
+- Modern colors
+- Dark & Light mode toggle
+- Smooth animations (CSS only)
+
+-----------------------------------
+TOOLS TO INCLUDE (ALL 50):
+
+PRODUCTIVITY:
+1. Reminder Tool
+2. Day Counter
+3. To-Do List
+4. Notes Maker
+5. Alarm
+6. Habit Tracker
+7. Pomodoro Timer
+8. Daily Planner
+9. Weekly Planner
+10. Mood Tracker
+
+TIME & DATE:
+11. Age Calculator
+12. Date Difference Calculator
+13. World Clock
+14. Time Zone Converter
+15. Countdown Timer
+
+FILE & DOCUMENT:
+16. Image to PDF
+17. PDF to Image
+18. Merge PDF
+19. Split PDF
+20. Compress PDF
+21. File Size Compressor
+22. Image Resizer
+23. Image Compressor
+24. Text to PDF
+25. PDF to Text
+
+TEXT & CONTENT:
+26. Word Counter
+27. Character Counter
+28. Case Converter
+29. Text Cleaner
+30. Grammar Checker (basic JS logic)
+31. Plagiarism Checker (basic logic)
+32. Paraphrasing Tool (basic)
+
+AI TOOLS (Frontend UI ready – placeholder logic allowed):
+33. AI Text Generator
+34. AI Resume Builder
+35. AI Cover Letter Generator
+36. AI Bio Generat
